@@ -1,24 +1,75 @@
-- 👋 Hi, I’m @erickNjuki
+![Go-To-Market Engineer | HubSpot CRM Architecture | RevOps Automation | GTM Systems](Revenue-Architect.png)
 
-  
-## About Me
+# Hi, I'm Erick Njuki 👋
 
-A web software developer with an extra superpower — technical writing.
+## Go-To-Market Engineer | HubSpot CRM Architecture | RevOps Automation | GTM Systems
 
-Whether I'm writing React or fiddling with Figma or solving algorithms in JavaScript, my main objective is always the
-same, which is to create clean, understandable content that solves problems.
+I design and optimize revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth systems.
 
-When not coding or writing, I'm most likely watching Soccer/football or simply wondering if there's a slight
-chance the earth is flat.
+My work focuses on helping teams eliminate fragmented marketing operations by building reliable systems across:
 
-You can check out my personal [blog articles](https://hashnode.com/@SciptsBynjuki).
+- CRM architecture
+- Marketing automation
+- Lead lifecycle management
+- Data enrichment pipelines
+- Outbound infrastructure
+- Revenue operations workflows
 
-Feel free to also check out [my portfolio](https://njukierick.vercel.app).
+I combine marketing operations expertise with an engineering mindset to create systems that are measurable, maintainable, and built for scale.
 
+My implementation portfolio and technical documentation are available at **Portfolio**.
 
+---
+
+# What I Build
+
+## CRM & Revenue Operations
+
+- HubSpot CRM architecture and optimization
+- Lifecycle stage and pipeline design
+- CRM property governance
+- Workflow automation
+- Lead routing systems
+- Revenue reporting infrastructure
+
+## Data & Outbound Infrastructure
+
+- Clay enrichment workflows
+- Apollo prospecting systems
+- Smartlead outbound infrastructure
+- Data validation and enrichment pipelines
+- B2B targeting and segmentation systems
+
+## Automation & Integrations
+
+- HubSpot workflow automation
+- n8n and Zapier integrations
+- API-based system connections
+- Marketing operations automation
+- GTM process optimization
+
+---
+
+# Technical Stack
+
+## Revenue Operations
+
+HubSpot • Clay • Smartlead • Apollo
+
+## Automation
+
+n8n • Zapier • Webhooks • API Integrations
+
+## Web Infrastructure
+
+WordPress • PHP • HTML • CSS • JavaScript  
+Domains • DNS • Hosting • Landing Page Systems
+
+---
 
 ## Social Links
-  [GitHub](https://github.com/ericknjuki)  •  [Twitter(X)](https://twitter.com/njukierick)  •  [Hashnode](https://hashnode.com/@SciptsBynjuki)
+
+[GitHub](https://github.com/ericknjuki) • [Twitter(X)](https://twitter.com/njukierick) • [Hashnode](https://hashnode.com/@SciptsBynjuki)
 
 <!---
 erickNjuki/erickNjuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
